@@ -1,0 +1,5 @@
+/* 可以在此添加自定义CSS样式 */
+.status-bar-item.plugin-simple-test {
+    color: var(--text-accent);
+    font-weight: bold;
+}
