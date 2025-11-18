@@ -1,5 +1,16 @@
-/* 可以在此添加自定义CSS样式 */
-.status-bar-item.plugin-simple-test {
-    color: var(--text-accent);
-    font-weight: bold;
+/* Canvas同步插件样式 */
+
+.canvas-sync-group {
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 5px;
+}
+
+.canvas-sync-group h4 {
+	margin-top: 0;
+}
+
+.canvas-sync-group ul {
+	padding-left: 20px;
 }
